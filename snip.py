@@ -37,8 +37,11 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
+    runntxt(GG+"   [___________________________________________________] ")
     runntxt(GG+"   (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->")
+    runntxt(GG+".  [___________________________________________________]")
     runntxt(GL+"            ®  assalamu'@l@ikum  ®.            ")
+    runntxt(GG+".  [___________________________________________________] ")
     runntxt(WW+"   (¯`·.¸¸.·´¯`·.¸¸.-> MASUK KE MENU ·´¯`·.¸¸.-> ")
     runntxt(WW+"     (¯`·.¸¸.·´¯`·.¸¸.->  King-N.Z   ·´¯`·.¸¸.-> ")
     runntxt(GL+"  (¯`·.¸¸.·´¯`.-> admin penuh dengan dosa `·.¸¸.-> ")
@@ -48,7 +51,8 @@ def banner():
     runntxt(GG+"   (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->")
     time.sleep(1.5)
     print GG+"  (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
-    print GL+"         I{•------»     FB SNIPER     »------•{I| "
+    runntxt(GG+".                   <___________> ")
+    print GL+"        I{•------»     <FB SNIPER>     »------•{I| "
     print GG+"   (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
     print WW+"   ->            BY    : KING-N.Z               -> "
     print WW+"   ->            TEAM  : 1MP3R10R-T24M          -> "
@@ -56,12 +60,12 @@ def banner():
     print GL+"  (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.-> "
     print GL+" (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
     print GG+" (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
-    print GL+"  |·.¸¸.->       HACK FACEBOOK BOS ^_^     `·.¸¸.->"
+    print GL+"  |·.¸¸.->   HACK FACEBOOK SNIPER GUYS ^_^  `·.¸¸.->"
     print GG+"  (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸·´¯`·.¸¸.->"
 
 banner()
 
-print wd+"          HIDUP DI DUNIA YANG FANA TANPA MENANGIS "
+print wd+"          HIDUP DI DUNIA YANG FANA TANPA TANGISAN "
 print wd+"                        OK KITA MULAI             "
 print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
