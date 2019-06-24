@@ -1,4 +1,3 @@
-# clear
 #!usr
 # -*- coding: UTF-8 -*-
 # autor: King-N.Z
