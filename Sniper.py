@@ -165,8 +165,8 @@ def runn_noobs():
 ┈┈┈▂╱━━▎╭╭╮╲▂┈┈┈
 ┈┈┈╲▔▔▔▔▔▔▔▔╱┈┈┈ 
 ~╰╰╰╰╰╰╰╰╰╰╰╰╰╰╰ ~\033[91;1m
-                \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.K7C8NG
+                \033[90;1m1MP3E10R T24M \033[91;1m
+             Powered by:\033[97m KING-N.Z
       """
 
 
