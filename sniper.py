@@ -38,12 +38,13 @@ def banner():
     os.system('clear')
     print " "
     runntxt(GL+"              assalamu'@l@ikum ")
-    runntxt(WW+"   (¯`·.¸¸.·´¯`·.¸¸.-> MASUK KE MENU ")
-    runntxt(WW+"     (¯`·.¸¸.·´¯`·.¸¸.->       King-N.Z ")
-    runntxt(GL+"               salah gw emang ")
-    runntxt(GG+"     (¯`·.¸¸.·´¯`·.¸¸.-> PECINTA KUCING ")
-    runntxt(Y+"    (¯`·.¸¸.·´¯`·.¸¸.->HIDUP INI NIKMAT GUYS")
-    runntxt(GG+"                      KITA MULAI ")
+    runntxt(WW+"   (¯`·.¸¸.·´¯`·.¸¸.-> MASUK KE MENU ·´¯`·.¸¸.-> ")
+    runntxt(WW+"     (¯`·.¸¸.·´¯`·.¸¸.->  King-N.Z ·´¯`·.¸¸.-> ")
+    runntxt(GL+"               salah gw emang ·´¯`·.¸¸.-> ")
+    runntxt(GG+"     (¯`·.¸¸.·´¯`·.¸¸.-> PECINTA KUCING ·´¯`·.¸¸.-> ")
+    runntxt(Y+"    (¯`·.¸¸.·´¯`·.¸¸.->HIDUP INI NIKMAT GUYS ·´¯`·.¸¸.-> ")
+    runntxt(GG+"      .·´¯`·.¸¸.->       KITA MULAI .·´¯`·.¸¸.-> ")
+    runntxt(GG+"   (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
     time.sleep(1.5)
     print GG+"  (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
     print GL+"       I{•------»     𝐹𝐵 𝒮𝒩𝐼𝒫𝐸𝑅     »------•{I| "
