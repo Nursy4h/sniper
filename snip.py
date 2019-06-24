@@ -38,7 +38,7 @@ def banner():
     os.system('clear')
     print " "
     runntxt(GG+"   (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->")
-    runntxt(GL+"            ®  assalamu'@l@ikum ").  ®
+    runntxt(GL+"            ®  assalamu'@l@ikum ").  ®.            ")
     runntxt(WW+"   (¯`·.¸¸.·´¯`·.¸¸.-> MASUK KE MENU ·´¯`·.¸¸.-> ")
     runntxt(WW+"     (¯`·.¸¸.·´¯`·.¸¸.->  King-N.Z   ·´¯`·.¸¸.-> ")
     runntxt(GL+"  (¯`·.¸¸.·´¯`.-> admin penuh dengan dosa `·.¸¸.-> ")
