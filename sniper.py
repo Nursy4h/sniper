@@ -50,7 +50,7 @@ def banner():
     runntxt(GL+"     (¯`·.¸¸.·´¯`.->.admin penuh dengan dosa      `·.¸¸.-> ")
     runntxt(GG+"   (¯`·..·´¯`·.¸¸.->      PECINTA KUCING.   ·´¯`·.¸¸.-> ")
     runntxt(Y+"        (¯`·.¸¸.·´¯`·.¸¸.->HIDUP INI NIKMAT GUYS.  ´¯`·.¸¸.-> ")
-    runntxt(GG+"   (.·´¯`·.¸¸.->          KITA MULAI     .·´¯`·.¸¸.-> ")
+    runntxt(GG+"   (.·´¯`·.¸¸.->        SIAP PAKE SENJATA     .·´¯`·.¸¸.-> ")
     runntxt(GG+"     (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->")
     time.sleep(1.5)
     print GG+"  (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
