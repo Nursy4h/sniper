@@ -39,9 +39,9 @@ def banner():
     print " "
     
     runntxt(GG+"   (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->")
-    runntxt(GG+".                  __________________   ")
+    runntxt(GG+"                   __________________   ")
     runntxt(GL+"                 ®  assalamu'@l@ikum  ®.            ")
-    runntxt(GG+".  [________________________________________________] ")
+    runntxt(GG+"   [________________________________________________] ")
     runntxt(GG+"     JANGAN MENGAKUI DIRI ANDA ADALAH SEORANG HACKER  ")
     runntxt(GG+"        KARENA SEORANG HACKER TIDAK INGIN DI AKUI      ")
     runntxt(GG+"                    APALAGI MENGAKUI ")
@@ -54,7 +54,7 @@ def banner():
     runntxt(GG+"     (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->")
     time.sleep(1.5)
     print GG+"  (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
-    print GG+".                       ___________           ")
+    print GG+"                       ___________           "
     print GL+"           I{•------»     <FB SNIPER>     »------•{I| "
     print GG+"         (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
     print WW+"      ->            BY    : KING-N.Z               -> "
