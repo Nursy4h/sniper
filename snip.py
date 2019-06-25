@@ -37,11 +37,15 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
+    
     runntxt(GG+"   (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->")
     runntxt(GG+".                  __________________   ")
     runntxt(GL+"                 ®  assalamu'@l@ikum  ®.            ")
     runntxt(GG+".  [________________________________________________] ")
-    runntxt(WW+"   (¯`·.¸¸.·´¯`·.¸¸.->   MASUK KE SITUZ ·´¯`·.¸¸.-> ")
+    runntxt(GG+"     JANGAN MENGAKUI DIRI ANDA ADALAH SEORANG HACKER  ")
+    runntxt(GG+"        KARENA SEORANG HACKER TIDAK INGIN DI AKUI      ")
+    runntxt(GG+"                    APALAGI MENGAKUI ")
+    runntxt(WW+"   (¯`·.¸¸.·´¯`·.¸¸.->   MASUK KE SITUS ·´¯`·.¸¸.-> ")
     runntxt(WW+"       (¯`·.¸¸.·´¯`·.¸¸.->     King-N.Z       ·´¯`·.¸¸.-> ")
     runntxt(GL+"     (¯`·.¸¸.·´¯`.->.admin penuh dengan dosa      `·.¸¸.-> ")
     runntxt(GG+"   (¯`·..·´¯`·.¸¸.->      PECINTA KUCING.   ·´¯`·.¸¸.-> ")
@@ -50,7 +54,7 @@ def banner():
     runntxt(GG+"     (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->")
     time.sleep(1.5)
     print GG+"  (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
-    runntxt(GG+".                       ___________           ")
+    print GG+".                       ___________           ")
     print GL+"           I{•------»     <FB SNIPER>     »------•{I| "
     print GG+"         (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
     print WW+"      ->            BY    : KING-N.Z               -> "
@@ -59,9 +63,12 @@ def banner():
     print GL+"          (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.-> "
     print GL+"     (¯`·.¸¸.·´¯`·.¸¸.-¯`ceritanya¸¸.·.¸¸.·´¯`·.¸¸.->"
     print GG+"        (¯`·.¸¸.·´¯`·.¸¸. -`air.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
-    print GL+"    |·.¸¸.->   HACK FACEBOOK SNIPER GUYS ^_^  `·.¸¸.->"
+    print GL+"          (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.-> "
+    print GL+"      (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.-> "
+    print GL+"          (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.-> "
+    print GL+"    |·.¸¸.->   HACK FACEBOOK SNIPER TARGET   `·.¸¸.->"
     print GG+"          (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸·´¯`·.¸.->"
-    runntxt(GG+"    [_______________________________________________] ")
+    print GG+"    [_______________________________________________] ")
 
 banner()
 
