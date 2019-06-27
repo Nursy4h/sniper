@@ -35,37 +35,37 @@ def runntxt(s):
 
 
 def banner():
-    runntxt(GG+"   (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.-> ")
-    runntxt(GG+"                   __________________   ")
-    runntxt(GL+"                 ®  assalamu'@l@ikum  ®.            ")
-    runntxt(GG+"   [________________________________________________] ")
-    runntxt(GG+"     JANGAN MENGAKUI DIRI ANDA ADALAH SEORANG HACKER  ")
-    runntxt(GG+"        KARENA SEORANG HACKER TIDAK INGIN DI AKUI      ")
-    runntxt(GG+"                    APALAGI MENGAKUI ")
-    runntxt(WW+"   (¯`·.¸¸.·´¯`·.¸¸.->   MASUK KE SITUS ·´¯`·.¸¸.-> ")
-    runntxt(WW+"       (¯`·.¸¸.·´¯`·.¸¸.->     King-N.Z       ·´¯`·.¸¸.-> ")
-    runntxt(GL+"     (¯`·.¸¸.·´¯`.->.admin penuh dengan dosa      `·.¸¸.-> ")
-    runntxt(GG+"   (¯`·..·´¯`·.¸¸.->      PECINTA KUCING.   ·´¯`·.¸¸.-> ")
-    runntxt(Y+"        (¯`·.¸¸.·´¯`·.¸¸.->HIDUP INI NIKMAT GUYS.  ´¯`·.¸¸.-> ")
-    runntxt(GG+"   (.·´¯`·.¸¸.->        SIAP PAKE SENJATA     .·´¯`·.¸¸.-> ")
-    runntxt(GG+"     (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->")
+    runntxt(GG+" (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.-> ")
+    runntxt(GG+"                 __________________   ")
+    runntxt(GL+"               ®  assalamu'@l@ikum  ®.            ")
+    runntxt(GG+" [________________________________________________] ")
+    runntxt(GG+"   JANGAN MENGAKUI DIRI ANDA ADALAH SEORANG HACKER  ")
+    runntxt(GG+"      KARENA SEORANG HACKER TIDAK INGIN DI AKUI      ")
+    runntxt(GG+"                  APALAGI MENGAKUI ")
+    runntxt(WW+" (¯`·.¸¸.·´¯`·.¸¸.->   MASUK KE SITUS ·´¯`·.¸¸.-> ")
+    runntxt(WW+"     (¯`·.¸¸.·´¯`·.¸¸.->     King-N.Z       ·´¯`·.¸¸.-> ")
+    runntxt(GL+"   (¯`·.¸¸.·´¯`.->.admin penuh dengan dosa      `·.¸¸.-> ")
+    runntxt(GG+" (¯`·..·´¯`·.¸¸.->      PECINTA KUCING.   ·´¯`·.¸¸.-> ")
+    runntxt(Y+"      (¯`·.¸¸.·´¯`·.¸¸.->HIDUP INI NIKMAT GUYS.  ´¯`·.¸¸.-> ")
+    runntxt(GG+" (.·´¯`·.¸¸.->        SIAP PAKE SENJATA     .·´¯`·.¸¸.-> ")
+    runntxt(GG+"   (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->")
     time.sleep(1.5)
-    print GG+"  (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
-    print GG+"                          ___________           "
-    print GL+"           I{•------»     <FB SNIPER>     »------•{I| "
-    print GG+"         (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
-    print WW+"      ->            BY    : KING-N.Z               -> "
-    print WW+"      ->            TEAM  : 1MP3R10R-T24M          -> "
-    print Y+"       ->            WA    : +16 878-8114-5568      -> "
-    print GL+"          (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.-> "
-    print GL+"     (¯`·.¸¸.·´¯`·.¸¸.-¯`ceritanya¸¸.·.¸¸.·´¯`·.¸¸.->"
-    print GG+"        (¯`·.¸¸.·´¯`·.¸¸. -`air.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
-    print GL+"          (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.-> "
+    print GG+"(¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
+    print GG+"                        ___________           "
+    print GL+"         I{•------»     <FB SNIPER>     »------•{I| "
+    print GG+"       (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
+    print WW+"    ->            BY    : KING-N.Z               -> "
+    print WW+"    ->            TEAM  : 1MP3R10R-T24M          -> "
+    print Y+"     ->            WA    : +16 878-8114-5568      -> "
+    print GL+"        (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.-> "
+    print GL+"   (¯`·.¸¸.·´¯`·.¸¸.-¯`ceritanya¸¸.·.¸¸.·´¯`·.¸¸.->"
+    print GG+"      (¯`·.¸¸.·´¯`·.¸¸. -`air.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
     print GL+"      (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.-> "
-    print GL+"          (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.-> "
-    print GL+"    |·.¸¸.->   HACK FACEBOOK SNIPER TARGET   `·.¸¸.->"
-    print GG+"          (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸·´¯`·.¸.->"
-    print GG+"    [_______________________________________________] "
+    print GL+"    (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.-> "
+    print GL+"        (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.-> "
+    print GL+"  |·.¸¸.->   HACK FACEBOOK SNIPER TARGET   `·.¸¸.->"
+    print GG+"        (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸·´¯`·.¸.->"
+    print GG+"  [_______________________________________________] "
 
 banner()
 
@@ -73,7 +73,7 @@ print wd+"         SIAP MEMBIDIK SASARAN  "
 print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
-print "\033[92m╭────\033[91m[ \033[96mMasukkan File Wordlist \033[95m( peluru.txt ) \033[91;1m]"
+print "\033[92m╭────\033[91m[ \033[96mMasukkan Ammo Wordlistnya \033[95m( peluru.txt ) \033[91;1m]"
 password_list = str(raw_input(GG+"╰────➲\033[93m "))
 login = 'https://www.facebook.com/login.php?login_attempt=1'
 useragents = [('Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0','Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Geck')]
@@ -175,7 +175,7 @@ def runn_noobs():
 ┈┈┈▂╱━━▎╭╭╮╲▂┈┈┈         
 ┈┈┈╲▔▔▔▔▔▔▔▔╱┈┈┈        
 ~╰╰╰╰╰╰╰╰╰╰╰╰╰╰╰` \033[91;1m
-                \033[90;1mLife Of Programmer\033[91;1m
+             \033[90;1mLife Of Programmer\033[91;1m
              Powered by:\033[97 KKING-N.Z
       """
 
