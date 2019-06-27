@@ -135,7 +135,7 @@ def iqbalz(iqbalz_password):
 	if mask != login and (not 'login_attempt' in mask):
                         print " "
 			print ("\033[96m                S U C C E S S")
-			print "          P A S S W O R D  F I N D "
+			print "        B E R H A S I L  M E N G E N A I S A S A R A N "
                   	print RR+"+-------------------------------------------+"
 	         	print (RR+"#\033[97m ID / Email Target:\033[92m {}").format(email_target)
         	        print (RR+"#\033[97m Password Target:\033[92m {}").format(iqbalz_password)
