@@ -73,7 +73,7 @@ print wd+"         SIAP MEMBIDIK SASARAN  "
 print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
-print "\033[92m╭────\033[91m[ \033[96mMasukkan File Wordlist \033[95m( pass.txt ) \033[91;1m]"
+print "\033[92m╭────\033[91m[ \033[96mMasukkan File Wordlist \033[95m( peluru.txt ) \033[91;1m]"
 password_list = str(raw_input(GG+"╰────➲\033[93m "))
 login = 'https://www.facebook.com/login.php?login_attempt=1'
 useragents = [('Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0','Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Geck')]
@@ -99,7 +99,7 @@ def edit_wordlist():
                 os.system('nano '+password_list)
                 pil()
         elif ed == 'n' or ed == 'N':
-                print wd+" MEMBUANG SNIPER..."
+                print wd+" MEMBUANG SENJATA..."
                 sys.exit()
 
         else:
@@ -119,7 +119,7 @@ def main():
         runn_noobs()
         life()
         print " "
-        print RR+" wordlist tidak ada yg cocok..."
+        print RR+" OOPS...SASARAN MELESET..."
         print " "
 def iqbalz(iqbalz_password):
   try:
@@ -145,7 +145,7 @@ def iqbalz(iqbalz_password):
   
   
   except KeyboardInterrupt:
-      print wd+"Stop......."
+      print wd+"MEMBUANG SENJATA......."
       edit_wordlist()
       sys.exit()    	    
 def life():
@@ -163,7 +163,7 @@ def runn_noobs():
 ┈▕▔╲▂▂▂▕╲╭╮╱▏▔▏┈   ^  ◤▔▔▔▔▔▔▔◥  ^ A
 ┈╱┈┈┈┈┈▕╱╰╯╲▏┈╲      ▇▇▇▇▇▇▇▇▇▇▇   T
 ▕┈┈┈┈┈┈┈┈┈┈┈┈┈┈▏     ▇▏◥▇◣┊◢▇◤▕▇  O
-▕┈┈┈▇┈┈╭╮┈┈▇┈┈┈▏       ◣  ▇  ◢         M
+▕┈┈┈▇┈┈╭╮┈┈▇┈┈┈▏       ◣  ▇  ◢     M
 ┈╳┈┈┈┈┈╰╯┈┈┈┈┈╳┈         ◣▇◢
 ┈┈╳▂▂▂^▂▂▂^▂▂▂    
 -- ^ --- ^ --  X ˜”°•sᴀɴɢ ᴛᴏᴘɪ ʜɪᴛᴀᴍ•°*”˜ X
@@ -176,7 +176,7 @@ def runn_noobs():
 ┈┈┈╲▔▔▔▔▔▔▔▔╱┈┈┈        
 ~╰╰╰╰╰╰╰╰╰╰╰╰╰╰╰` \033[91;1m
                 \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97 KING-N.Z
+             Powered by:\033[97 KKING-N.Z
       """
 
 
