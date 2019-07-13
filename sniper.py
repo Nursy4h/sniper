@@ -42,7 +42,7 @@ def banner():
     runntxt(GG+"   JANGAN MENGAKUI DIRI ANDA ADALAH SEORANG HACKER  ")
     runntxt(GG+"      KARENA SEORANG HACKER TIDAK INGIN DI AKUI      ")
     runntxt(GG+"                  APALAGI MENGAKUI ")
-        runntxt(WW+".         Goblin dan malaikat maut ")
+    runntxt(WW+".         Goblin dan malaikat maut ")
     runntxt(WW+"     	              King-N.Z   ")
     runntxt(GL+"              admin penuh dengan dosa")
     runntxt(GG+"                  PECINTA KUCING.  ")
