@@ -95,7 +95,7 @@ def banner():
 banner()
 
 print wd+"         Bidik dengan bener "
-print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
+print RR+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
 print "\033[92m╭────\033[91m[ \033[96mMasukan ammo nya \033[95m( ammo.txt ) \033[91;1m]"
