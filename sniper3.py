@@ -82,12 +82,12 @@ def banner():
     runntxt(GG+"                  APALAGI MENGAKUI ")
     runntxt(WW+"          	        ")
     runntxt(WW+"                       ")
-    runntxt(GL+"   (¯`·.¸·´¯>.admin penuh dengan dosa`·.¸¸.-> ")
+    runntxt(GL+"   ")
     time.sleep(1.5)
     print GG+"(¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
-    print GG+"                     ___________           "
-    print GL+"      I{•------»     <FB SNIPER>     »------•{I| "
-    print GL+".               SIAP MEMAKAIN SENJATA "
+    print GG+"                   ___________           "
+    print GL+"    I{•------»     <FB SNIPER>     »------•{I| "
+    print GL+".             SIAP MEMAKAIN SENJATA "
 banner()
 
 print wd+"         Bidik dengan bener "
