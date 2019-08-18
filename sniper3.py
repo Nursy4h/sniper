@@ -81,13 +81,13 @@ def banner():
     runntxt(GG+"      KARENA SEORANG HACKER TIDAK INGIN DI AKUI      ")
     runntxt(GG+"                  APALAGI MENGAKUI ")
     runntxt(WW+"          	        ")
-    runntxt(WW+"                       ")
+    runntxt(WW+" ")
     runntxt(GL+"   ")
     time.sleep(1.5)
     print GG+"(¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
-    print GG+"                     ___________           "
-    print GL+"      I{•------»     <FB SNIPER>     »------•{I| "
-    print GL+"                SIAP MEMAKAIN SENJATA "
+    print GG+"                    ___________           "
+    print GL+"     I{•------»     <FB SNIPER>     »------•{I| "
+    print GL+"               SIAP MEMAKAIN SENJATA "
 banner()
 
 print wd+"       Bidik target"
@@ -189,14 +189,14 @@ def runn_noobs():
 ./`—-’ /..
 /____ /..       Gw mo nembak loe...
 
-
+  
  …………(0 0)........
 ,—oOO–(_)———————————————,
 ╔═══════════════════════════╗
 ║TUNGGU DENGAN TENANG EA TOT║
 ╚═══════════════════════════╝
    ‘———————-oOO—————————————'
-……...|__|__|
+……...|__|__|   \033[90;1m  nursyah  \033[36;1m
 ……….. || ||
 …….. ooO Ooo
 
