@@ -80,14 +80,14 @@ def banner():
     runntxt(GG+"   JANGAN MENGAKUI DIRI ANDA ADALAH SEORANG HACKER  ")
     runntxt(GG+"      KARENA SEORANG HACKER TIDAK INGIN DI AKUI      ")
     runntxt(GG+"                  APALAGI MENGAKUI ")
-    runntxt(WW+"          	       Goblin ")
-    runntxt(WW+"                      King-N.Z ")
+    runntxt(WW+"          	        ")
+    runntxt(WW+"                       ")
     runntxt(GL+"   (¯`·.¸·´¯>.admin penuh dengan dosa`·.¸¸.-> ")
     time.sleep(1.5)
     print GG+"(¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
-    print GG+"                      ___________           "
-    print GL+"       I{•------»     <FB SNIPER>     »------•{I| "
-    print GL+".                SIAP MEMAKAIN SENJATA "
+    print GG+"                     ___________           "
+    print GL+"      I{•------»     <FB SNIPER>     »------•{I| "
+    print GL+".               SIAP MEMAKAIN SENJATA "
 banner()
 
 print wd+"         Bidik dengan bener "
