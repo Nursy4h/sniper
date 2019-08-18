@@ -76,7 +76,7 @@ def banner():
     runntxt(GG+" (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.-> ")
     runntxt(GG+"                 __________________   ")
     runntxt(GL+"               ®  assalamu'@l@ikum  ®.            ")
-    runntxt(GG+" [________________________________________________] ")
+    runntxt(GG+" [_________________________________________________] ")
     runntxt(GG+"   JANGAN MENGAKUI DIRI ANDA ADALAH SEORANG HACKER  ")
     runntxt(GG+"      KARENA SEORANG HACKER TIDAK INGIN DI AKUI      ")
     runntxt(GG+"                  APALAGI MENGAKUI ")
@@ -90,7 +90,7 @@ def banner():
     print GL+".             SIAP MEMAKAIN SENJATA "
 banner()
 
-print wd+"            Bidik target"
+print wd+"       Bidik target"
 print RR+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
