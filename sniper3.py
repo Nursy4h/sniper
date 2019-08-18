@@ -90,7 +90,7 @@ def banner():
     print GL+".             SIAP MEMAKAIN SENJATA "
 banner()
 
-print wd+"         Bidik dengan bener "
+print wd+"            Bidik target"
 print RR+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
