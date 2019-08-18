@@ -82,10 +82,10 @@ def banner():
     runntxt(GG+"                  APALAGI MENGAKUI ")
     runntxt(WW+"          	       Goblin ")
     runntxt(WW+"                      King-N.Z ")
-    runntxt(GL+"   (¯`·.¸·´¯`.->.admin penuh dengan dosa      `·.¸¸.-> ")
-    runntxt(GG+" (¯`·..·´¯`·.¸¸.->   PECINTA KUCING.   ·´¯`·.¸¸.-> ")
-    runntxt(Y+"      (¯`·.¸¸.·.->HIDUP INI NIKMAT GUYS.  ´¯`·.¸¸.-> ")
-    runntxt(GG+" (.·´¯`·.¸¸.->     SIAP PAKE SENJATA     .·´¯`·.¸¸.-> ")
+    runntxt(GL+"   (¯`·.¸·´¯`.->.admin penuh dengan dosa`·.¸¸.-> ")
+    runntxt(GG+" (¯`·..·´¯`·.¸¸.- ·´¯`·.¸¸.-> ")
+    runntxt(Y+"      (¯`·.¸¸.·.->  ´¯`·.¸¸.-> ")
+    runntxt(GG+" (.·´¯`·.¸¸.->     SIAP PAKE SENJATA·´¯`·.¸¸.-> ")
     runntxt(GG+"   (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->")
     time.sleep(1.5)
     print GG+"(¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
@@ -184,12 +184,12 @@ def runn_noobs():
          global password_list
 
          lop = RR+"""
-┈▕▔╲▂▂▂▕╲╭╮╱▏▔▏┈   ^  ◤▔▔▔▔▔▔▔◥  ^ A
-┈╱┈┈┈┈┈▕╱╰╯╲▏┈╲      ▇▇▇▇▇▇▇▇▇▇▇   T
-▕┈┈┈┈┈┈┈┈┈┈┈┈┈┈▏     ▇▏◥▇◣┊◢▇◤▕▇  O
-▕┈┈┈▇┈┈╭╮┈┈▇┈┈┈▏       ◣  ▇  ◢     M
-┈╳┈┈┈┈┈╰╯┈┈┈┈┈╳┈         ◣▇◢
-┈┈╳▂▂▂^▂▂▂^▂▂▂    
+   ^  ◤▔▔▔▔▔▔▔◥  ^ A
+     ▇▇▇▇▇▇▇▇▇▇▇   
+     ▇▏◥▇◣┊◢▇◤▕▇  O
+       ◣  ▇  ◢     M
+          ◣▇◢
+
 -- ^ --- ^ --  X ˜”°•sᴀɴɢ ᴛᴏᴘɪ ʜɪᴛᴀᴍ•°*”˜ X
 -( -King-N.Z- )--  ▇▇▇▇▇◤▔▔▔▔▔▔▔◥▇▇▇▇▇
 ┈┈┈┈┈┈▕╲┈┈┈┈┈┈┈          KING-N.Z   
