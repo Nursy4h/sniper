@@ -3,7 +3,7 @@
 # Mod by: MR.ZRIL
 # team: life of programmer
 
-import clear
+"clear"
 import os
 import sys
 import time
