@@ -80,8 +80,8 @@ def banner():
     runntxt(GG+"   JANGAN MENGAKUI DIRI ANDA ADALAH SEORANG HACKER  ")
     runntxt(GG+"      KARENA SEORANG HACKER TIDAK INGIN DI AKUI      ")
     runntxt(GG+"                  APALAGI MENGAKUI ")
-    runntxt(WW+"          	        ")
-    runntxt(WW+" ")
+    runntxt(WW+"          Wa : 081376441665     ")
+    runntxt(WW+".          ")
     runntxt(GL+"   ")
     time.sleep(1.5)
     print GG+" (¯`·.¸¸.·´¯`·.¸¸.-¯`·.¸¸.·´¯`·.¸¸.·.¸¸.·´¯`·.¸¸.->"
