@@ -191,7 +191,7 @@ def runn_noobs():
 
   
  …………(0 0)........  
-,—oOO–(_)———————————————,\033[90;1mby:nursyah\033[36;1m
+,—oOO–(_)———————————————,\033[36;1m
 ╔═══════════════════════════╗
 ║TUNGGU DENGAN TENANG EA TOT║
 ╚═══════════════════════════╝
@@ -202,7 +202,7 @@ def runn_noobs():
 
 \033[91;1m
                 \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.NZ
+             Powered by:\033[97m nur syah
       """
 
 
